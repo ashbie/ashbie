@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ashbie
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++ and Java
 - 📫 How to reach me: ashbie.b.mweemba@gmail.com
 
 <!---
